@@ -2,7 +2,7 @@
 
 namespace App\Filament\Resources;
 
-use BezhanSalleh\FilamentShield\Resources\RoleResource as ShieldRoleResource;
+use BezhanSalleh\FilamentShield\Resources\Roles\RoleResource as ShieldRoleResource;
 
 class RoleResource extends ShieldRoleResource
 {
